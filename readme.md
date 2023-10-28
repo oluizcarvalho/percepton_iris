@@ -1,5 +1,11 @@
 # Projeto 2 - Perceptron na classificação da base de dados Iris
 
+## Alunos
+- Luiz André da Silva Carvalho
+- João Victor Fernandes de Souza Silva
+- Daniel Gonçalves
+
+## Sobre 
 O presente projeto compreende um perceptron de uma única camadas e de um único
 neurônio capaz de classificar as espécies da base de dados Iris duas à duas. 
 
@@ -10,7 +16,7 @@ ou a proporção da base que será utilizada para o treinamento.
 Por padrão, o número de épocas está definido como 10, a taxa de aprendizado em 30% e a proporção para 
 treinamento em 10%.
 
-Modo de uso completo à seguir:
+## Como usar:
 
 ```bash
 usage: main.py [-h] [--epocas [EPOCAS]] [--taxa [TAXA]] [--proporcao [PROPORCAO]] {setosa,versicolor,virginica} {setosa,versicolor,virginica}
