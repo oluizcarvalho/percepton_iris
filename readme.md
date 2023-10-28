@@ -16,7 +16,7 @@ ou a proporção da base que será utilizada para o treinamento.
 Por padrão, o número de épocas está definido como 10, a taxa de aprendizado em 30% e a proporção para 
 treinamento em 10%.
 
-## Como usar:
+## Como usar
 
 ```bash
 usage: main.py [-h] [--epocas [EPOCAS]] [--taxa [TAXA]] [--proporcao [PROPORCAO]] {setosa,versicolor,virginica} {setosa,versicolor,virginica}
